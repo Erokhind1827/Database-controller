@@ -69,3 +69,4 @@
 ![image](https://github.com/Erokhind1827/Database-controller/assets/103384979/8ae73b5a-9a98-4e8e-8f71-b22d33077a1f)
 
 
+При закрытии приложения в final_query.txt сохраняется вся история запросов, отправленных на субд
